@@ -1,3 +1,6 @@
+#If you don't want to follow the steps below, you can access the site here:
+https://tiny-nasturtium-fa760e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
